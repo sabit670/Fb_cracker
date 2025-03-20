@@ -13,5 +13,5 @@ pip install -r requirements.txt
 
 
 ```
-python linkshorter.py
+python sabittx.py
 ```
