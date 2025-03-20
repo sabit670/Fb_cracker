@@ -5,7 +5,9 @@
 ```
 git clone https://github.com/sabit670/Fb_cracker
 ```
-
+```
+cd Fb_cracker
+```
 
 ```
 pip install -r requirements.txt
